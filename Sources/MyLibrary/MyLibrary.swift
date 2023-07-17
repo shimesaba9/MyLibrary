@@ -2,6 +2,8 @@
 // https://docs.swift.org/swift-book
 
 open class MyClass {
+    open init() {}
+    
     open func test() {
         print("Hello.")
     }
