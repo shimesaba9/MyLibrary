@@ -1,10 +1,8 @@
 // The Swift Programming Language
 // https://docs.swift.org/swift-book
 
-open class MyClass {
-    open init() {}
-    
-    open func test() {
+public class MyClass {
+    public func test() {
         print("Hello.")
     }
     
